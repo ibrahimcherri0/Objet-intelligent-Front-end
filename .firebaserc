@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "systeme-domotique": {
+      "hosting": {
+        "Front-end": [
+          "systeme-domotique"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "systeme-domotique"
+  }
+}
